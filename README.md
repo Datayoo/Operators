@@ -30,6 +30,13 @@
   **ZhiPuTextGenerator**：智谱文本生成算子
 ## process
 ​	process目录下存放了数据处理相关的算子。
+### lang
+​	编程语言插件算子。包含：
+
+  **Javascript**：Javascript算子
+  
+  **Python**：Python算子
+  
 ### row
 ​	针对行的数据处理算子。包括：特征统计、条件过滤、布隆过滤、分组、去重、排序、集合计算、采样及列集拆分相关算子。
 ### struct
