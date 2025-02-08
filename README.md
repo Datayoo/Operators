@@ -11,6 +11,19 @@
 
  **DeepseekInferencer**：Deepseek推理
 
+### openai
+ ​openai模型相关的算子。内含：
+ 
+ **OpenAITextGenerator**：OpenAI文本生成
+ 
+ **OpenAIConversation**：OpenAI对话
+
+ **OpenAITextEmbedding**：OpenAI文本嵌入
+
+ **OpenAISpeechToText**：OpenAI音频转文字
+
+ **OpenAITextToImage**：OpenAI文生图
+
 ## process
 ​	process目录下存放了数据处理相关的算子。
 ### lang
